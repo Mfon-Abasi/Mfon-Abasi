@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mfon-Abasi 
-- 👀 I’m interested in ... Ui/Ux and front end
-- 🌱 I’m currently learning ...Ui/Ux, html, css and javascript
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
